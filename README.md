@@ -11,8 +11,16 @@ I ommit that most of my codes are inspired by under atushi.
 * We are using constant velocity model for predicting state matrix.  
 ![Kalman_algorithm](/images/al.jpg)
 
-# result of distance filtering
+# Result of distance filtering
 ![Kalman_distance](/images/kalman_distance.jpg)
+* Remember this is just an example.  
+* You can find Q and R for specific numbers in code script data.  
+
+# Error of distance filtering
+![Kalman_distance_error](/images/distance_error.jpg)
 
 # result of velocity filtering
 ![Kalman_velocity](/images/kalman_velocity.jpg)
+
+# Error of velocity filtering
+![Kalman_velocity_error](/images/velocity_error.jpg)
