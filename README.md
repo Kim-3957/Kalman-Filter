@@ -6,6 +6,7 @@ I ommit that most of my codes are inspired by under atushi.
 
 # Algorithm
 * First, try to understand what is measurement models and kalman filter euqations.
+* I was inspired by Kalman filtering - Theory and practice using MATLAB
 ![Kalman_table](/images/table.jpg)
 
 * We are using constant velocity model for predicting state matrix.  
