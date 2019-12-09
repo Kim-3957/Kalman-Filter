@@ -4,7 +4,7 @@ I attach good article related to kalman filtering algorithms.
 I ommit that most of my codes are inspired by under atushi.  
 >https://gist.github.com/AtsushiSakai/5376850
 
-# Algorithm
+# Algorithm summary
 * First, try to understand what is measurement models and kalman filter euqations.
 * I was inspired by Kalman filtering - Theory and practice using MATLAB
 ![Kalman_table](/images/table.jpg)
