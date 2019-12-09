@@ -6,7 +6,7 @@ I ommit that most of my codes are inspired by under atushi.
 
 # Algorithm
 First, try to understand what is measurement models and kalman filter euqations.
-![Kalman_table](/images/table1.jpg)
+![Kalman_table](/images/table.jpg)
 
 # result of distance filtering
 ![Kalman_distance](/images/kalman_distance.jpg)
