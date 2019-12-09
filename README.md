@@ -4,6 +4,10 @@ I attach good article related to kalman filtering algorithms.
 I ommit that most of my codes are inspired by under atushi.  
 >https://gist.github.com/AtsushiSakai/5376850
 
+# Algorithm
+First, try to understand what is measurement models and kalman filter euqations.
+![Kalman_distance](/images/table1.jpg)
+
 # result of distance filtering
 ![Kalman_distance](/images/kalman_distance.jpg)
 
