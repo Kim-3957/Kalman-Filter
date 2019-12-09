@@ -11,13 +11,18 @@ I ommit that most of my codes are inspired by under atushi.
 * We are using constant velocity model for predicting state matrix.  
 ![Kalman_algorithm](/images/al.jpg)
 
+# Samples
+* Here,  we show you example of radar tracking scenario when human is intruding into sensing area.
+* Ture values were compared with motion capture system wich has relatively small measurement error.
+
 # Result of distance filtering
 ![Kalman_distance](/images/kalman_distance.jpg)
-* Remember this is just an example.  
+* You can see that data got more smoother than discrete one.  
 * You can find Q and R for specific numbers in code script data.  
 
 # Error of distance filtering
 ![Kalman_distance_error](/images/distance_error.jpg)
+* Error was almost same as raw.
 
 # result of velocity filtering
 ![Kalman_velocity](/images/kalman_velocity.jpg)
