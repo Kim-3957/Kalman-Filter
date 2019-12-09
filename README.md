@@ -15,7 +15,7 @@ I ommit that most of my codes are inspired by under atushi.
 ![Kalman_algorithm](/images/al.jpg)
 
 # Example
-$x = 1$ 
+$$x = 1$$ 
 
 # Samples
 * Here,  we show you example of radar tracking scenario when human is intruding into sensing area.
