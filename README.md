@@ -5,7 +5,7 @@
 >https://gist.github.com/AtsushiSakai/5376850
 
 # 거리추정 결과
-[Github logo](/images/kalman_distance.jpg)
+![Kalman_distance](/images/kalman_distance.jpg)
 
 # 속도 추정 결과
-[Github logo](/images/kalman_velocity.jpg)
+![Kalman_velocity](/images/kalman_velocity.jpg)
