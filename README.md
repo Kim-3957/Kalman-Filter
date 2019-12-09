@@ -12,9 +12,6 @@ I ommit that most of my codes are inspired by under atushi.
 * We are using constant velocity model for predicting state matrix.  
 ![Kalman_algorithm](/images/al.jpg)
 
-# Example
-$$x = 1$$ 
-
 # Samples
 * Here,  we show you example of radar tracking scenario when human is intruding into sensing area.
 * Ture values were compared with motion capture system wich has relatively small measurement error.
