@@ -5,7 +5,7 @@ I ommit that most of my codes are inspired by under atushi.
 >https://gist.github.com/AtsushiSakai/5376850
 
 # Algorithm
-*First, try to understand what is measurement models and kalman filter euqations.
+* First, try to understand what is measurement models and kalman filter euqations.
 ![Kalman_table](/images/table.jpg)
 
 # result of distance filtering
