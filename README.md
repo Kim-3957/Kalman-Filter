@@ -8,6 +8,9 @@ I ommit that most of my codes are inspired by under atushi.
 * First, try to understand what is measurement models and kalman filter euqations.
 ![Kalman_table](/images/table.jpg)
 
+* We are using constant velocity model for predicting state matrix.  
+![Kalman_algorithm](/images/al.jpg)
+
 # result of distance filtering
 ![Kalman_distance](/images/kalman_distance.jpg)
 
