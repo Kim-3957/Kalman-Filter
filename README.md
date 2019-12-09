@@ -1,3 +1,5 @@
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
+
 # Kalman-Filter
 I made tutorial for my studies regarding kalman filtering.  
 I attach good article related to kalman filtering algorithms.  
@@ -11,6 +13,9 @@ I ommit that most of my codes are inspired by under atushi.
 
 * We are using constant velocity model for predicting state matrix.  
 ![Kalman_algorithm](/images/al.jpg)
+
+# Example
+$x = 1$ 
 
 # Samples
 * Here,  we show you example of radar tracking scenario when human is intruding into sensing area.
