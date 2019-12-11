@@ -27,6 +27,9 @@ I ommit that most of my codes are inspired by under atushi.
 
 # result of velocity filtering
 ![Kalman_velocity](/images/kalman_velocity.jpg)
+* The aim of this filter was to estimate velocity when obervation of distance is only avaliable.  
+* Therefore, we set observation matrix H as [1 0].  
 
 # Error of velocity filtering
 ![Kalman_velocity_error](/images/velocity_error.jpg)
+* Compared to raw data, it can be seen that variance of error got decreased.  
