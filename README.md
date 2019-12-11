@@ -33,3 +33,12 @@ I ommit that most of my codes are inspired by under atushi.
 # Error of velocity filtering
 ![Kalman_velocity_error](/images/velocity_error.jpg)
 * Compared to raw data, it can be seen that variance of error got decreased.  
+
+# Algorithm explained
+1. State matrix model (SSM) 
+* Firstly, think about car moving and the location of the car can be detected by use of GPS.  
+* The first problem in this scenario is that, only the location of the car is known.  
+* Throughout this example, estimating velocity by using discrete kalman filter is shown.  
+![eq1](/images/eq1.jpg)
+
+
