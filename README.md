@@ -41,5 +41,4 @@ I ommit that most of my codes are inspired by under atushi.
 * Throughout this example, estimating velocity by using discrete kalman filter is shown.  
 ![eq1](/images/eq1.jpg)
 
-lets say, 
 
